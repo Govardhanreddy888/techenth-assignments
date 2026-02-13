@@ -1,4 +1,4 @@
-#using AWS ubuntu e:wqc2 machine
+#using AWS ubuntu ec2 machine
 
 1.first i have created folder in my ec2 and and git is already installed
 
